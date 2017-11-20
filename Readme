@@ -5,3 +5,7 @@ PhilipsTV: 10.1.1.30
 Reachxm:   10.1.1.40
 
 
+------------------------------
+  aptitude install libc-dev
+
+
